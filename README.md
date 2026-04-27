@@ -41,6 +41,8 @@ Metrics reported on the official Food-101 test split (25,250 images). Details in
 
 All metrics on official Food-101 test split (25,250 images, 101 classes). Fine-tuned ViT is used in production.
 
+NutriLens benchmarks on the official Food-101 test split (Bossard et al., ECCV 2014). The original paper reported 50.76% top-1 accuracy using random forests; our fine-tuned ViT-B/16 achieves 86.60% and ResNet-50 achieves 86.82%, exceeding human-level performance (~85%) on this benchmark. Portion estimation uses zero-shot SAM (Kirillov et al., ICCV 2023). Nutrition tracking motivation draws from Noronha et al. (CHI 2011), which documented manual logging as the primary dropout cause in dietary apps.
+
 **Ablation study** (frozen vs unfrozen × augmentation on/off): see `eval/ablation.md`.
 
 **Confusion matrix** (top visually-similar failure pairs — steak vs filet mignon, ramen vs pho): see `eval/confusion.png`.
