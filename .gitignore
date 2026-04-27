@@ -1,0 +1,28 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+secrets.json
+*.key
+*.pem
+.DS_Store
+.ipynb_checkpoints/
+
+# data + artifacts
+data/food-101/
+data/food-101.tar.gz
+data/hand_weighed/
+*.pt
+*.pth
+wandb/
+runs/
+logs/
+
+# keep history JSONs and eval outputs
+!checkpoints/*_history.json
+*.png
+!eval/outputs/*.png

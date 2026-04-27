@@ -1,0 +1,503 @@
+{
+  "apple_pie": {
+    "fdc_id": 2288447,
+    "description": "APPLE PIE",
+    "data_type": "Branded"
+  },
+  "baby_back_ribs": {
+    "fdc_id": 1457876,
+    "description": "BABY BACK RIBS",
+    "data_type": "Branded"
+  },
+  "baklava": {
+    "fdc_id": 2708044,
+    "description": "Baklava",
+    "data_type": "Survey (FNDDS)"
+  },
+  "beef_carpaccio": {
+    "fdc_id": 2612998,
+    "description": "TRUFFLE CARPACCIO",
+    "data_type": "Branded"
+  },
+  "beef_tartare": {
+    "fdc_id": 2706394,
+    "description": "Steak tartare",
+    "data_type": "Survey (FNDDS)"
+  },
+  "beet_salad": {
+    "fdc_id": 2710071,
+    "description": "Beets, pickled",
+    "data_type": "Survey (FNDDS)"
+  },
+  "beignets": {
+    "fdc_id": 2708071,
+    "description": "Beignet",
+    "data_type": "Survey (FNDDS)"
+  },
+  "bibimbap": {
+    "fdc_id": 2708950,
+    "description": "Bibimbap, Korean",
+    "data_type": "Survey (FNDDS)"
+  },
+  "bread_pudding": {
+    "fdc_id": 2381798,
+    "description": "BREAD PUDDING",
+    "data_type": "Branded"
+  },
+  "breakfast_burrito": {
+    "fdc_id": 2315891,
+    "description": "BREAKFAST BURRITO",
+    "data_type": "Branded"
+  },
+  "bruschetta": {
+    "fdc_id": 2707652,
+    "description": "Bruschetta",
+    "data_type": "Survey (FNDDS)"
+  },
+  "caesar_salad": {
+    "fdc_id": 1916135,
+    "description": "CAESAR SALAD",
+    "data_type": "Branded"
+  },
+  "cannoli": {
+    "fdc_id": 1942720,
+    "description": "CANNOLI",
+    "data_type": "Branded"
+  },
+  "caprese_salad": {
+    "fdc_id": 1950083,
+    "description": "CAPRESE SALAD",
+    "data_type": "Branded"
+  },
+  "carrot_cake": {
+    "fdc_id": 2265380,
+    "description": "CARROT CAKE",
+    "data_type": "Branded"
+  },
+  "ceviche": {
+    "fdc_id": 2706463,
+    "description": "Ceviche",
+    "data_type": "Survey (FNDDS)"
+  },
+  "cheesecake": {
+    "fdc_id": 1938600,
+    "description": "CHEESECAKE",
+    "data_type": "Branded"
+  },
+  "cheese_plate": {
+    "fdc_id": 167671,
+    "description": "CRACKER BARREL, macaroni n' cheese plate, from kid's menu",
+    "data_type": "SR Legacy"
+  },
+  "chicken_curry": {
+    "fdc_id": 2706437,
+    "description": "Chicken curry",
+    "data_type": "Survey (FNDDS)"
+  },
+  "chicken_quesadilla": {
+    "fdc_id": 2708593,
+    "description": "Quesadilla, chicken",
+    "data_type": "Survey (FNDDS)"
+  },
+  "chicken_wings": {
+    "fdc_id": 2100942,
+    "description": "CHICKEN WINGS",
+    "data_type": "Branded"
+  },
+  "chocolate_cake": {
+    "fdc_id": 2092208,
+    "description": "CHOCOLATE CAKE",
+    "data_type": "Branded"
+  },
+  "chocolate_mousse": {
+    "fdc_id": 2705698,
+    "description": "Mousse",
+    "data_type": "Survey (FNDDS)"
+  },
+  "churros": {
+    "fdc_id": 2708070,
+    "description": "Churros",
+    "data_type": "Survey (FNDDS)"
+  },
+  "clam_chowder": {
+    "fdc_id": 1916483,
+    "description": "CLAM CHOWDER",
+    "data_type": "Branded"
+  },
+  "club_sandwich": {
+    "fdc_id": 2706995,
+    "description": "Club sandwich on wheat",
+    "data_type": "Survey (FNDDS)"
+  },
+  "crab_cakes": {
+    "fdc_id": 2381781,
+    "description": "CRAB CAKES",
+    "data_type": "Branded"
+  },
+  "creme_brulee": {
+    "fdc_id": 2705684,
+    "description": "Creme brulee",
+    "data_type": "Survey (FNDDS)"
+  },
+  "croque_madame": {
+    "fdc_id": 2439059,
+    "description": "MADAME GOUGOUSSE, INSTANT OATS",
+    "data_type": "Branded"
+  },
+  "cup_cakes": {
+    "fdc_id": 2707875,
+    "description": "Cake, fruit cake",
+    "data_type": "Survey (FNDDS)"
+  },
+  "deviled_eggs": {
+    "fdc_id": 2707181,
+    "description": "Egg, deviled",
+    "data_type": "Survey (FNDDS)"
+  },
+  "donuts": {
+    "fdc_id": 2055870,
+    "description": "DONUTS",
+    "data_type": "Branded"
+  },
+  "dumplings": {
+    "fdc_id": 2708344,
+    "description": "Dumpling, no meat",
+    "data_type": "Survey (FNDDS)"
+  },
+  "edamame": {
+    "fdc_id": 2550119,
+    "description": "EDAMAME",
+    "data_type": "Branded"
+  },
+  "eggs_benedict": {
+    "fdc_id": 2707180,
+    "description": "Egg, Benedict",
+    "data_type": "Survey (FNDDS)"
+  },
+  "escargots": {
+    "fdc_id": 2706368,
+    "description": "Escargot",
+    "data_type": "Survey (FNDDS)"
+  },
+  "falafel": {
+    "fdc_id": 2707408,
+    "description": "Falafel",
+    "data_type": "Survey (FNDDS)"
+  },
+  "filet_mignon": {
+    "fdc_id": 2068002,
+    "description": "FILET MIGNON",
+    "data_type": "Branded"
+  },
+  "fish_and_chips": {
+    "fdc_id": 174195,
+    "description": "Fish, fish sticks, frozen, prepared",
+    "data_type": "SR Legacy"
+  },
+  "foie_gras": {
+    "fdc_id": 171100,
+    "description": "Pate de foie gras, canned (goose liver pate), smoked",
+    "data_type": "SR Legacy"
+  },
+  "french_fries": {
+    "fdc_id": 169009,
+    "description": "APPLEBEE'S, french fries",
+    "data_type": "SR Legacy"
+  },
+  "french_onion_soup": {
+    "fdc_id": 461428,
+    "description": "FRENCH ONION SOUP",
+    "data_type": "Branded"
+  },
+  "french_toast": {
+    "fdc_id": 2708338,
+    "description": "French toast sticks",
+    "data_type": "Survey (FNDDS)"
+  },
+  "fried_calamari": {
+    "fdc_id": 2706334,
+    "description": "Calamari, fried",
+    "data_type": "Survey (FNDDS)"
+  },
+  "fried_rice": {
+    "fdc_id": 1917356,
+    "description": "FRIED RICE",
+    "data_type": "Branded"
+  },
+  "frozen_yogurt": {
+    "fdc_id": 2705456,
+    "description": "Frozen yogurt sandwich",
+    "data_type": "Survey (FNDDS)"
+  },
+  "garlic_bread": {
+    "fdc_id": 2128017,
+    "description": "GARLIC BREAD",
+    "data_type": "Branded"
+  },
+  "gnocchi": {
+    "fdc_id": 2083591,
+    "description": "GNOCCHI",
+    "data_type": "Branded"
+  },
+  "greek_salad": {
+    "fdc_id": 1931800,
+    "description": "GREEK SALAD",
+    "data_type": "Branded"
+  },
+  "grilled_cheese_sandwich": {
+    "fdc_id": 2705801,
+    "description": "Grilled cheese sandwich, NFS",
+    "data_type": "Survey (FNDDS)"
+  },
+  "grilled_salmon": {
+    "fdc_id": 1928614,
+    "description": "GRILLED SALMON",
+    "data_type": "Branded"
+  },
+  "guacamole": {
+    "fdc_id": 1922901,
+    "description": "GUACAMOLE",
+    "data_type": "Branded"
+  },
+  "gyoza": {
+    "fdc_id": 2297219,
+    "description": "GYOZA DIPPING SAUCE, GYOZA",
+    "data_type": "Branded"
+  },
+  "hamburger": {
+    "fdc_id": 2113853,
+    "description": "HAMBURGER",
+    "data_type": "Branded"
+  },
+  "hot_and_sour_soup": {
+    "fdc_id": 2707136,
+    "description": "Soup, hot and sour",
+    "data_type": "Survey (FNDDS)"
+  },
+  "hot_dog": {
+    "fdc_id": 2707470,
+    "description": "Hot dog, vegetarian",
+    "data_type": "Survey (FNDDS)"
+  },
+  "huevos_rancheros": {
+    "fdc_id": 2707191,
+    "description": "Huevos rancheros",
+    "data_type": "Survey (FNDDS)"
+  },
+  "hummus": {
+    "fdc_id": 2422987,
+    "description": "HUMMUS",
+    "data_type": "Branded"
+  },
+  "ice_cream": {
+    "fdc_id": 2100807,
+    "description": "ICE CREAM",
+    "data_type": "Branded"
+  },
+  "lasagna": {
+    "fdc_id": 2586090,
+    "description": "LASAGNA",
+    "data_type": "Branded"
+  },
+  "lobster_bisque": {
+    "fdc_id": 1859121,
+    "description": "LOBSTER BISQUE",
+    "data_type": "Branded"
+  },
+  "lobster_roll_sandwich": {
+    "fdc_id": 2706349,
+    "description": "Lobster",
+    "data_type": "Survey (FNDDS)"
+  },
+  "macaroni_and_cheese": {
+    "fdc_id": 2618433,
+    "description": "MACARONI AND CHEESE",
+    "data_type": "Branded"
+  },
+  "macarons": {
+    "fdc_id": 577342,
+    "description": "MACARONS",
+    "data_type": "Branded"
+  },
+  "miso_soup": {
+    "fdc_id": 2147271,
+    "description": "MISO SOUP",
+    "data_type": "Branded"
+  },
+  "mussels": {
+    "fdc_id": 2706350,
+    "description": "Mussels",
+    "data_type": "Survey (FNDDS)"
+  },
+  "nachos": {
+    "fdc_id": 2708580,
+    "description": "Nachos, chicken",
+    "data_type": "Survey (FNDDS)"
+  },
+  "omelette": {
+    "fdc_id": 2504183,
+    "description": "SHAKSHUKA OMELETTE SAUCE, SHAKSHUKA OMELETTE",
+    "data_type": "Branded"
+  },
+  "onion_rings": {
+    "fdc_id": 1904109,
+    "description": "ONION RINGS",
+    "data_type": "Branded"
+  },
+  "oysters": {
+    "fdc_id": 2708747,
+    "description": "Dressing with oysters",
+    "data_type": "Survey (FNDDS)"
+  },
+  "pad_thai": {
+    "fdc_id": 2708806,
+    "description": "Pad Thai with chicken",
+    "data_type": "Survey (FNDDS)"
+  },
+  "paella": {
+    "fdc_id": 2706711,
+    "description": "Paella with seafood",
+    "data_type": "Survey (FNDDS)"
+  },
+  "pancakes": {
+    "fdc_id": 2708343,
+    "description": "Chinese pancake",
+    "data_type": "Survey (FNDDS)"
+  },
+  "panna_cotta": {
+    "fdc_id": 2059670,
+    "description": "GELATO, PANNA COTTA",
+    "data_type": "Branded"
+  },
+  "peking_duck": {
+    "fdc_id": 2706141,
+    "description": "Duck, Peking",
+    "data_type": "Survey (FNDDS)"
+  },
+  "pho": {
+    "fdc_id": 2707124,
+    "description": "Soup, pho, with meat",
+    "data_type": "Survey (FNDDS)"
+  },
+  "pizza": {
+    "fdc_id": 2629362,
+    "description": "PIZZA",
+    "data_type": "Branded"
+  },
+  "pork_chop": {
+    "fdc_id": 2705872,
+    "description": "Pork, chop, stuffed",
+    "data_type": "Survey (FNDDS)"
+  },
+  "poutine": {
+    "fdc_id": 2669381,
+    "description": "POUTINE MACARONI AND CHEESE, POUTINE",
+    "data_type": "Branded"
+  },
+  "prime_rib": {
+    "fdc_id": 2413850,
+    "description": "PRIME RIB RUB, PRIME RIB",
+    "data_type": "Branded"
+  },
+  "pulled_pork_sandwich": {
+    "fdc_id": 173344,
+    "description": "Pulled pork in barbecue sauce",
+    "data_type": "SR Legacy"
+  },
+  "ramen": {
+    "fdc_id": 2709154,
+    "description": "Ramen bowl with beef",
+    "data_type": "Survey (FNDDS)"
+  },
+  "ravioli": {
+    "fdc_id": 2667381,
+    "description": "RAVIOLI",
+    "data_type": "Branded"
+  },
+  "red_velvet_cake": {
+    "fdc_id": 2151914,
+    "description": "RED VELVET CAKE",
+    "data_type": "Branded"
+  },
+  "risotto": {
+    "fdc_id": 777970,
+    "description": "RISOTTO",
+    "data_type": "Branded"
+  },
+  "samosa": {
+    "fdc_id": 2708730,
+    "description": "Samosa",
+    "data_type": "Survey (FNDDS)"
+  },
+  "sashimi": {
+    "fdc_id": 2196025,
+    "description": "SASHIMI",
+    "data_type": "Branded"
+  },
+  "scallops": {
+    "fdc_id": 2384290,
+    "description": "SCALLOPS",
+    "data_type": "Branded"
+  },
+  "seaweed_salad": {
+    "fdc_id": 1935825,
+    "description": "SEAWEED SALAD",
+    "data_type": "Branded"
+  },
+  "shrimp_and_grits": {
+    "fdc_id": 2708363,
+    "description": "Grits, NFS",
+    "data_type": "Survey (FNDDS)"
+  },
+  "spaghetti_bolognese": {
+    "fdc_id": 2601287,
+    "description": "SPAGHETTI BOLOGNESE ITALIAN RECIPE SPAGHETTI WITH BEEF BOLOGNESE SAUCE, SPAGHETTI BOLOGNESE",
+    "data_type": "Branded"
+  },
+  "spaghetti_carbonara": {
+    "fdc_id": 2709745,
+    "description": "Spaghetti sauce",
+    "data_type": "Survey (FNDDS)"
+  },
+  "spring_rolls": {
+    "fdc_id": 2707782,
+    "description": "Roll, multigrain",
+    "data_type": "Survey (FNDDS)"
+  },
+  "steak": {
+    "fdc_id": 2706747,
+    "description": "Pepper steak",
+    "data_type": "Survey (FNDDS)"
+  },
+  "strawberry_shortcake": {
+    "fdc_id": 2707896,
+    "description": "Cake, strawberry shortcake",
+    "data_type": "Survey (FNDDS)"
+  },
+  "sushi": {
+    "fdc_id": 2708959,
+    "description": "Sushi, NFS",
+    "data_type": "Survey (FNDDS)"
+  },
+  "tacos": {
+    "fdc_id": 170736,
+    "description": "TACO BELL, Taco Salad",
+    "data_type": "SR Legacy"
+  },
+  "takoyaki": null,
+  "tiramisu": {
+    "fdc_id": 2705702,
+    "description": "Tiramisu",
+    "data_type": "Survey (FNDDS)"
+  },
+  "tuna_tartare": {
+    "fdc_id": 2706394,
+    "description": "Steak tartare",
+    "data_type": "Survey (FNDDS)"
+  },
+  "waffles": {
+    "fdc_id": 2093968,
+    "description": "WAFFLES",
+    "data_type": "Branded"
+  }
+}
